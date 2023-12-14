@@ -1,0 +1,38 @@
+.container {
+            
+    height: 400px;
+    width: 100%;
+    place-items: center;
+    align-items: center;
+    text-align: center;    
+    
+}
+
+.container1{
+    background-color: rgb(148, 75, 75);
+    padding-top: 50px;
+    margin-left: 30%;
+    margin-right: 30%;
+    height:300px;
+    margin-top: 170px;
+    border: 10px solid black;
+     
+}
+
+button{
+     background-color: rgb(16, 101, 228);
+     border-radius: 5px;
+     height: 30px;
+     
+}
+h1{
+    color: rgb(0, 6, 8);
+    border-bottom: 2px solid black;
+}
+label{
+    color: rgb(0, 3, 4);
+    border-bottom: 5px solid black;
+}
+input{
+    border-bottom: 5px solid black;
+}
